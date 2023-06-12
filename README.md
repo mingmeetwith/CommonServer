@@ -30,7 +30,8 @@ A server for learn or job self.
 nginx的用途：可以用作cdn（放置静态资源，如：静态页面、静态图片）。
 nginx中自定义的数据结构（有无符号数、字符串、列表、table类似于map、缓冲区）
 nginx http上下文的概念
-
+事件驱动，生产者和消费者的概念
+nginx有自己的内存池
 
 开发一个简单的nginx模块（只有通过实际操作，才能有深刻的见解）
 
